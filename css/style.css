@@ -45,9 +45,12 @@ div{
 }
 
 #yellow{
-    background-color: #FFF000;
+    background-color: #FFFF00;
     text-align: right;
     color: black;
+}
+
+#yellow h2{
     text-shadow: 4px 4px 2px #c7e2c7;
 }
 
@@ -60,4 +63,6 @@ footer{
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
 }
